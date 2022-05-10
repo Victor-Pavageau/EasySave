@@ -54,7 +54,7 @@ namespace EasySave.Layouts {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/EasySaveGUI;V3.1.0.0;component/layouts/managebackupbtnview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/EasySaveGUI;component/layouts/managebackupbtnview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\Layouts\ManageBackupBtnView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

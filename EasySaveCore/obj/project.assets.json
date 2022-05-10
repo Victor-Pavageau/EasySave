@@ -54,11 +54,11 @@
   "project": {
     "version": "3.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.1.0\\EasySaveCore\\EasySaveCore.csproj",
+      "projectUniqueName": "C:\\Users\\victo\\Documents\\GitHub\\System_Programming-A3\\EasySaveCore\\EasySaveCore.csproj",
       "projectName": "EasySaveCore",
-      "projectPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.1.0\\EasySaveCore\\EasySaveCore.csproj",
+      "projectPath": "C:\\Users\\victo\\Documents\\GitHub\\System_Programming-A3\\EasySaveCore\\EasySaveCore.csproj",
       "packagesPath": "C:\\Users\\victo\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.1.0\\EasySaveCore\\obj\\",
+      "outputPath": "C:\\Users\\victo\\Documents\\GitHub\\System_Programming-A3\\EasySaveCore\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

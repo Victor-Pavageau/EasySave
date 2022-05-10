@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OUhKenzyuc58rUAEYuphnpce2RHXhqErLzA/GAcQa6m5XtGE12z3+AZdXH82SOtYhmRYGqG4Yaif8uASG1fh3A==",
+  "dgSpecHash": "yFWbzFrMPMjcyCoX/PXVAjEp0RiRMdgQK2k/FKiJD+gGt2yzqrA+g9BE6jkgihRLzo8gGk1m2yGFpEceGg0DjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.1.0\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Documents\\GitHub\\System_Programming-A3\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\supersimpletcp\\2.6.0.7\\supersimpletcp.2.6.0.7.nupkg.sha512"
   ],

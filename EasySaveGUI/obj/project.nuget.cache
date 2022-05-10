@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h1wNaziacP21Ooum3fCnYxlmlGAkTlZ2wXOon5a2WUgZf/1TZfVEC/sOc6PA31dHSFR9pGI75n/mvi+ri5Z6Xw==",
+  "dgSpecHash": "RBOwm2gefQE7BpZ9i8FHSZRCGgsWy7Fq6EFsZeUlGhHE9TqVTi6amuDyPVaca0BPaxozGLTOl4G7VE9xjLOQ9g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\EasySave - v3.1.0\\EasySaveGUI\\EasySaveGUI.csproj",
+  "projectFilePath": "C:\\Users\\victo\\Documents\\GitHub\\System_Programming-A3\\EasySaveGUI\\EasySaveGUI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\victo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
     "C:\\Users\\victo\\.nuget\\packages\\ookii.dialogs.wpf\\5.0.0\\ookii.dialogs.wpf.5.0.0.nupkg.sha512",

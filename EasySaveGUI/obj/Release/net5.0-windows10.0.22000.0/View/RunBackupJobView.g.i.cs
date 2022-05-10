@@ -158,7 +158,7 @@ namespace EasySave.View {
                 return;
             }
             _contentLoaded = true;
-            System.Uri resourceLocater = new System.Uri("/EasySaveGUI;V3.1.0.0;component/view/runbackupjobview.xaml", System.UriKind.Relative);
+            System.Uri resourceLocater = new System.Uri("/EasySaveGUI;component/view/runbackupjobview.xaml", System.UriKind.Relative);
             
             #line 1 "..\..\..\..\View\RunBackupJobView.xaml"
             System.Windows.Application.LoadComponent(this, resourceLocater);

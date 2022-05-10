@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\obj\Release\net5.0-windows10.0.22000.0\
+C:\Users\victo\Documents\GitHub\System_Programming-A3\EasySaveGUI\obj\Release\net5.0-windows10.0.22000.0\
 EasySaveGUI
 none
 false
 TRACE;RELEASE;NET;NET5_0;NETCOREAPP
-C:\Users\victo\Desktop\Projet en cours\EasySave - v3.1.0\EasySaveGUI\App.xaml
+C:\Users\victo\Documents\GitHub\System_Programming-A3\EasySaveGUI\App.xaml
 12-1114111933
 
 212063283200
-208-158850208
+208-1275492914
 Layouts\ManageBackupBtnView.xaml;Layouts\NewBackupBtnView.xaml;Layouts\RunBackupBtnView.xaml;Layouts\SettingsBtnView.xaml;MainWindow.xaml;navButtonStyle.xaml;Properties\Dictionary-en-En.xaml;Properties\Dictionary-fr-Fr.xaml;View\ManageBackupJobsView.xaml;View\NewBackupJobView.xaml;View\RunBackupJobView.xaml;View\SettingsView.xaml;
 
-True
+False
 
