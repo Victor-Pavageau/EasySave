@@ -1,0 +1,335 @@
+[
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.7140282",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.7328461",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.7365154",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2818586",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2883846",
+    "Encryption duration": "00:00:00.0691855"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2937664",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3563855",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3597476",
+    "Encryption duration": "00:00:00.0031122"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3640753",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6483588",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6523283",
+    "Encryption duration": "00:00:00.0022495"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6567279",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:01:03.0968871",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test4",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:01:27.4277046",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:25.2800182",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:38.5633368",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.6559562",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.6595646",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.6634179",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:38.1968384",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.7580197",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.8013824",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Files size": "1200288",
+    "Save duration": "00:00:00.8050433",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2849125",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2917945",
+    "Encryption duration": "00:00:00.0610020"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test1",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.2982691",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3426958",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3477024",
+    "Encryption duration": "00:00:00.0028002"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test2",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.3534453",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6510931",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6570659",
+    "Encryption duration": "00:00:00.0029016"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test5",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:00:00.6652534",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:01:03.4424785",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test4",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Files size": "495652",
+    "Save duration": "00:01:27.1917210",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:24.1182851",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:38.4387615",
+    "Encryption duration": "00:00:00"
+  },
+  {
+    "Timestamp": "10-05-2022",
+    "Name": "test3",
+    "Source Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "Destination Path": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Files size": "942944427",
+    "Save duration": "00:00:41.0851294",
+    "Encryption duration": "00:00:00"
+  }
+]

@@ -1,0 +1,335 @@
+<root type="array">
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.7140282</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.7328461</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.7365154</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2818586</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2883846</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0691855</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2937664</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3563855</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3597476</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0031122</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3640753</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6483588</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6523283</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0022495</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6567279</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:03.0968871</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test4</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:27.4277046</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:25.2800182</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:38.5633368</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6559562</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6595646</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6634179</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:38.1968384</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.7580197</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.8013824</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">1200288</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.8050433</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2849125</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2917945</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0610020</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test1</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.2982691</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3426958</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3477024</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0028002</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test2</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.3534453</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6510931</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6570659</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00.0029016</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test5</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:00.6652534</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:03.4424785</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test4</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 5</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 5</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">495652</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:01:27.1917210</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:24.1182851</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:38.4387615</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+  <item type="object">
+    <Timestamp type="string">10-05-2022</Timestamp>
+    <Name type="string">test3</Name>
+    <a:item xmlns:a="item" item="Source Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_source 3</a:item>
+    <a:item xmlns:a="item" item="Destination Path" type="string">C:\Users\victo\Desktop\Projet en cours\Tests\test_dest 3</a:item>
+    <a:item xmlns:a="item" item="Files size" type="string">942944427</a:item>
+    <a:item xmlns:a="item" item="Save duration" type="string">00:00:41.0851294</a:item>
+    <a:item xmlns:a="item" item="Encryption duration" type="string">00:00:00</a:item>
+  </item>
+</root>

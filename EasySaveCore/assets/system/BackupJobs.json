@@ -1,0 +1,37 @@
+[
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source",
+    "DestinationPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest",
+    "Name": "test1",
+    "IsEncrypted": "No"
+  },
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 2",
+    "DestinationPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 2",
+    "Name": "test2",
+    "IsEncrypted": "Yes"
+  },
+  {
+    "Type": "Differential",
+    "SourcePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 3",
+    "DestinationPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 3",
+    "Name": "test3",
+    "IsEncrypted": "No"
+  },
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 4",
+    "DestinationPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 4",
+    "Name": "test4",
+    "IsEncrypted": "No"
+  },
+  {
+    "Type": "Full",
+    "SourcePath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_source 5",
+    "DestinationPath": "C:\\Users\\victo\\Desktop\\Projet en cours\\Tests\\test_dest 5",
+    "Name": "test5",
+    "IsEncrypted": "Yes"
+  }
+]
